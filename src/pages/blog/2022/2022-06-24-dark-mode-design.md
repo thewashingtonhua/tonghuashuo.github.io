@@ -1,14 +1,14 @@
 ---
-title: '聊聊「深色模式」'
+title: '聊聊「深色模式」 - 设计篇'
 description: '你说的黑不是黑，你说的暗是什么暗'
-tags: ['design', 'dark']
+tags: ['dark', 'mode', 'design']
 cover: '../../../images/blog/blank.jpg'
 series: ''
 draft: true
 original: true
 ---
 
-## 好好说话
+## 那些所谓的「深色模式」
 
 首先我们要明确一个概念，「Dark Mode」是「深色模式」，不是「夜间模式」，不是「暗夜模式」，不是「黑色版」，这才是对当下流行的这种设计模式的正确理解。
 
@@ -32,15 +32,14 @@ Dark Mode is not Black Mode
 
 不一定，颜色没有好坏，只有适合不适合
 
-多元包容，提供多一种选择
+省电，前提是 OLED
 
 凸显内容
-
 有助于专注
 
 给人专业的感觉
 
-省电，前提是 OLED
+多元包容，提供多一种选择
 
 世界的本色是黑色，有了光，才有了五颜六色
 
@@ -55,20 +54,6 @@ Dark Mode is not Black Mode
 少量使用颜色，避免花里胡哨，除非你的本意就是想要「五彩斑斓的黑」
 确保有足够的对比度
 最后，祝你在支持黑暗模式的应用里使用愉快。
-
-## Dark Mode for Web
-
-### 非黑即白
-
-prefer-color-schema
-
-### 多主题
-
-data-theme
-
-### 千人千面
-
-css variables
 
 ### Reference
 
