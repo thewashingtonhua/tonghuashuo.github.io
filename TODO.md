@@ -1,7 +1,8 @@
 # TODO
 
 ## Content
-- 项目系列命名「能动手尽量不BB」
+
+- 项目系列命名「能动手尽量不 BB」
   - 「小」系列
     - 批量标签管理器 - 方便管理标签分组，尤其是经常开着几百个标签的狂人
 - 版块名称尽量低调，避免花里胡哨
@@ -10,17 +11,23 @@
 - 外链卡片
 
 ## Design
+
+- 主色调
+  - 潘通年度色
+  - 随时间改变背景色（早晨到晚上）
 - prism 配色调整，使用 citylight 主题
 - 参考其它博客类风格
   - Gatsby 新官网的风格（清爽，简约）
   - Antfu 的官网（黑色系，极简）
-- 看看能不能用 [conic-gradient](https://developer.mozilla.org/en-US/docs/Web/CSS/conic-gradient()) 干点啥
+- 看看能不能用 [conic-gradient](<https://developer.mozilla.org/en-US/docs/Web/CSS/conic-gradient()>) 干点啥
 - 联系方式转图标
 
 # Develop
+
 - svg 使用 CRA 的 babel-plugin-named-asset-import 引入
 - Migrate to Next.js
-- Yarn 2 (PnP)
+- pnpm
 
 ## Need to fix
+
 - 处理表格滚动
